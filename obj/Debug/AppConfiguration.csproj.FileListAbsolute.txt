@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\WindowsFormsApp1\AppConfiguration\bin\Debug\AppConfiguration.dll
+c:\users\user\documents\visual studio 2017\Projects\WindowsFormsApp1\AppConfiguration\bin\Debug\AppConfiguration.pdb
+c:\users\user\documents\visual studio 2017\Projects\WindowsFormsApp1\AppConfiguration\obj\Debug\AppConfiguration.dll
+c:\users\user\documents\visual studio 2017\Projects\WindowsFormsApp1\AppConfiguration\obj\Debug\AppConfiguration.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\AppConfiguration\obj\Debug\AppConfiguration.csprojResolveAssemblyReference.cache
