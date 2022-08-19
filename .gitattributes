@@ -1,4 +1,2 @@
-*.cs linguist-detectable=true
-*.js linguist-detectable=true
-*.html linguist-detectable=treu
-*.xml linguist-detectable=false
+master/** linguist-documentation=false
+master/** linguist-vendored=false
