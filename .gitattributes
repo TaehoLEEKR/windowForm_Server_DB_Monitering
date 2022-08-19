@@ -1,4 +1,4 @@
-demo/** linguist-documentation=false
-demo/** linguist-vendored=false
-app/* linguist-documentation=false
-app/* linguist-vendored
+*.cs linguist-detectable=true
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
